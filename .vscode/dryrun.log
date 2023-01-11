@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/ikeofili/Desktop/Code/Projects/Hash table tests'
+gcc -I /home/ikeofili/Desktop/Code/Projects/utils/ -g -O3 -c -fPIC /home/ikeofili/Desktop/Code/Projects/utils//mytime/mytime.c -o mytime.o
+make: Leaving directory '/home/ikeofili/Desktop/Code/Projects/Hash table tests'
+ 
